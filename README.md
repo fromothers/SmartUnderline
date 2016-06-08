@@ -9,4 +9,14 @@ tricks to draw underlines in a more readable and beautiful way.
   <img src="https://install.eager.io/install-button.png" border="0" width="126">
 </a>
 
+### Usage:
+
+Include https://github.com/EagerIO/SmartUnderline/blob/master/js/smart-underline.js in the <head> of your page and run the following when the document is ready:
+
+```
+SmartUnderline.init({
+  location: ''
+})
+```
+
 <img alt="Examples" src="https://eager.io/showcase/SmartUnderline/images/examples.png" width="544">
